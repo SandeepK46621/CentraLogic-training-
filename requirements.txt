@@ -1,0 +1,4 @@
+langchain-huggingface
+langchain
+transformers
+fastapi
